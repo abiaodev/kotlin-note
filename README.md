@@ -1,2 +1,9 @@
 # kotlin-note
 kotlin 学习笔记
+## [基础语法](./primary/1.%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
+## [面向对象](./primary/2.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
+## [函数](./primary/3.%E5%87%BD%E6%95%B0.md)
+## [委托](./primary/4.%E5%A7%94%E6%89%98.md)
+## [泛型](./primary/5.%E6%B3%9B%E5%9E%8B.md)
+## [注解与反射](./primary/6.%E6%B3%A8%E8%A7%A3%E4%B8%8E%E5%8F%8D%E5%B0%84.md)
+## [协程](./primary/7.%E5%8D%8F%E7%A8%8B.md)
